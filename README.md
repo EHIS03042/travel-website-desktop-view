@@ -103,7 +103,7 @@ The  HTML page is styled using CSS with classes assigned for selector specificit
   - CTA Primer image.
 
 ## Presentation link
-[[Presentation Link](https://www.loom.com/)]
+[[Presentation Link](https://www.loom.com/share/95b0956f8bee4e7e95c8999701b297b7?sid=0cb23421-e6f2-4ecb-aef9-891eda9e794c)]
 
 ## Author
 Name: [Tolulope McSmith - EHIS03042]
